@@ -22,6 +22,6 @@ Before you begin, ensure you have the following software installed:
 ## Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/online-book-store.git
+   git clone https://github.com/Katam0838/Online-Book-Store.git
 2. **Naviagte to project directory**
 cd online-book-store
