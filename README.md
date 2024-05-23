@@ -10,8 +10,6 @@ The **Online Book Store** is a web-based application designed for managing books
 4. [Running the Application](#running-the-application)
 5. [File Structure](#file-structure)
 6. [Usage](#usage)
-7. [Features](#features)
-8. [Contributing](#contributing)
    
 ## Prerequisites
 Before you begin, ensure you have the following software installed:
