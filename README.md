@@ -23,3 +23,16 @@ Before you begin, ensure you have the following software installed:
    https://github.com/Katam0838/Online-Book-Store.git
 2. **Naviagte to project directory**
 cd online-book-store
+3. **Database Configuration**
+- Start XAMPP: Launch the XAMPP Control Panel and start Apache and MySQL.
+- Create Database: Open http://localhost/phpmyadmin/, create a new database named online_book_store.
+- Import Database: Import the online_book_store.sql file from the database directory.
+4. **Running the Application**
+- Move Project to XAMPP Directory: Copy the project folder to the htdocs directory in your XAMPP installation directory.
+- Access the Application: Open your browser and navigate to http://localhost/online-book-store/.
+5. **Features**
+- Books Management: Add, edit, view, and delete books, including managing stock quantity and price.
+- Categories Management: Add, edit, view, and delete book categories.
+- Authors Management: Add, edit, view, and delete authors.
+- Customers Management: Add, edit, view, and delete customers.
+- Orders Management: Add, edit, view, and delete orders.
